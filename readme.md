@@ -76,7 +76,7 @@ https://policies.google.com/technologies/ads
 ## 8. お問い合わせ
 本アプリに関するお問い合わせは、以下までお願いいたします。
 
-- メールアドレス：ai0tech0site+support@gmail.com
+- メールアドレス：support@passmate.jp
 
 ---
 
